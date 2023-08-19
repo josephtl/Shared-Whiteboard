@@ -18,7 +18,7 @@ public class ColorPalette extends JDialog implements ActionListener {
 	private Color currentColor;
 	private Color preview;
 	private int opacity = 255;
-
+	
 	/**
 	 * Create the frame.
 	 */
