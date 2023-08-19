@@ -1,1 +1,2 @@
 # Shared-Whiteboard
+This program is to design and implement a shared whiteboard server using RMI. The shared whiteboard is a multiuser system with a supported GUI. Every user could draw and see the real-time actions of other users. The basic features include drawing lines, circles, ovals, rectangles, text input and others. The whiteboard must be created by a manager so that other clients can join the shared whiteboard.
